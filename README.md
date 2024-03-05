@@ -1,2 +1,2 @@
-# humanbodyknowledgegraph
-human body knowledge graph (Neo4j)
+# Human Body Knowledge Graph
+Human Body Knowledge Graph for Neo4j database
